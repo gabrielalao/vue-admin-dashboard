@@ -1,1 +1,1 @@
-7 Vue app methods and functions changed on 3/21/2018
+3 Vue app methods and functions changed on 2/23/2018
