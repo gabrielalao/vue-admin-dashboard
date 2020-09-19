@@ -1,3 +1,5 @@
+## Free & Open Source Vue.js Admin Dashboard Template built with vue-router, vuex and bootstrap 4 by Gabriel Alao
+
 
 # vue-cli
 
